@@ -1,0 +1,9 @@
+a=int(input("num1:"))
+b=int(input("num2:"))
+c=int(input("num3:"))
+mul=a*b*c
+add=a+b+c
+ans=float(mul/add)
+print("mul=",mul)
+print("add",add)
+print('ans=',ans)

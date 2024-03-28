@@ -1,0 +1,9 @@
+i=1
+while(i<11):
+    print(i)
+    i=i+1
+print("up👆🏻\n\n👇🏻down")
+j=10
+while(j>0):
+    print(j)
+    j=j-1
